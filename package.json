@@ -1,0 +1,35 @@
+{
+  "name": "daniel-martinez-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Daniel Martinez",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielmart02/Daniel_Martinez_Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielmart02/Daniel_Martinez_Portfolio/issues"
+  },
+  "homepage": "https://github.com/Danielmart02/Daniel_Martinez_Portfolio#readme",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.1.6",
+    "typescript": "^5.9.3"
+  }
+}
